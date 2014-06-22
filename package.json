@@ -1,0 +1,41 @@
+{
+  "name": "jquery-classes",
+  "version": "0.1.0",
+  "description": "A jQuery plugin to easily add, remove and toggle classes at once",
+  "keywords": [
+    "jquery-plugin",
+    "class",
+    "classes"
+  ],
+  "homepage": "https://github.com/radkodinev/jquery-classes",
+  "bugs": "https://github.com/radkodinev/jquery-classes/issues",
+  "author": {
+    "name": "Radko Dinev",
+    "email": "radko.dinev@gmail.com",
+    "url": "https://github.com/radkodinev"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/radkodinev/jquery-classes.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-concat": "^0.4.0",
+    "grunt-contrib-connect": "^0.8.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-qunit": "^0.5.1",
+    "grunt-contrib-uglify": "^0.5.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "jshint-stylish": "^0.2.0",
+    "load-grunt-tasks": "^0.6.0"
+  }
+}

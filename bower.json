@@ -1,0 +1,28 @@
+{
+  "name": "jquery-classes",
+  "version": "0.1.0",
+  "description": "A jQuery plugin to easily add, remove and toggle classes at once",
+  "keywords": [
+    "jquery-plugin",
+    "class",
+    "classes"
+  ],
+  "authors": [
+    "Radko Dinev <radko.dinev@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/radkodinev/jquery-classes.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jquery": "latest",
+    "qunit": "latest"
+  },
+  "ignore": [
+    "*",
+    "!dist/jquery.jquery-classes.js",
+    "!dist/jquery.jquery-classes.min.js"
+  ],
+  "main": "dist/jquery.jquery-classes.min.js"
+}
