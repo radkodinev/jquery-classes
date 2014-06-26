@@ -54,5 +54,7 @@ $(...).classes('~someclass'); // => toggles a class for all elements in the coll
 $(...).classes('+state-open +state-active ~visible -list-item +list-item-active');
 ```
 
-## License / Author
-[MIT](http://opensource.org/licenses/MIT) © [Radko Dinev](https://github.com/radkodinev/)
+## License and Author
+MIT © [Radko Dinev](https://github.com/radkodinev/)
+
+See `LICENSE` file.
