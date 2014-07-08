@@ -24,20 +24,20 @@
     // This will run before each test in this module.
     setup: function() {
       this.$elems = $('#qunit-fixture').children();
-      this.$elem = $('#class3');
+      this.$elem = $('#classes-3');
     }
   });
 
   test('is chainable', function() {
     expect(1);
-    // Not a bad test to run on collection methods.
+
     strictEqual(this.$elems.classes('+some-class'), this.$elems, 'should be chainable');
   });
 
   test('returns all classes for the first element in the jQuery collection', function() {
     expect(1);
 
-    strictEqual(this.$elems.classes(), 'class1 class2 class3 class 4', 'should return all class names');
+    strictEqual(this.$elems.classes(), 'class1 class2 class3', 'should return all class names');
   });
 
   test('does not modify classes when argument is not a valid string', function() {
