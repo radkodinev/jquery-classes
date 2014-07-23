@@ -55,6 +55,6 @@ $(...).classes('+state-open +state-active ~visible -list-item +list-item-active'
 ```
 
 ## License and Author
-MIT © [Radko Dinev](https://github.com/radkodinev/)
+MIT © 2014 [Radko Dinev](https://github.com/radkodinev)
 
 See `LICENSE` file.

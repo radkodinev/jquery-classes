@@ -1,8 +1,8 @@
 /*
  * jquery-classes
  *
- * Copyright (c) 2014 Radko Dinev
- * Licensed under the MIT license.
+ * Copyright (c) 2014 Radko Dinev <radko.dinev@gmail.com> (https://github.com/radkodinev)
+ * Licensed under the MIT license
  */
 
 (function (factory) {
