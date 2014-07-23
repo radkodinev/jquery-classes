@@ -22,7 +22,9 @@
   "ignore": [
     "*",
     "!dist/jquery.jquery-classes.js",
-    "!dist/jquery.jquery-classes.min.js"
+    "!dist/jquery.jquery-classes.min.js",
+    "!LICENSE",
+    "!README.md"
   ],
   "main": "dist/jquery.jquery-classes.min.js"
 }
