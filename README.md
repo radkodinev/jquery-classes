@@ -54,6 +54,11 @@ $(...).classes('~someclass'); // => toggles a class for all elements in the coll
 $(...).classes('+state-open +state-active ~visible -list-item +list-item-active');
 ```
 
+## Contributing
+Any feedback or pull requests are welcome.
+
+See `CONTRIBUTING.md` file for more information.
+
 ## License and Author
 MIT © 2014 [Radko Dinev](https://github.com/radkodinev)
 
