@@ -2,7 +2,7 @@
   "name": "jquery-classes",
   "title": "jQuery Classes",
   "description": "A jQuery plugin to easily add, remove and toggle classes at once",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/radkodinev/jquery-classes",
   "author": {
     "name": "Radko Dinev",
