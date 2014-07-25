@@ -23,7 +23,8 @@
   },
   "licenses": [
     {
-      "type": "MIT"
+      "type": "MIT",
+      "url": "https://github.com/radkodinev/jquery-classes/blob/master/LICENSE"
     }
   ],
   "devDependencies": {
